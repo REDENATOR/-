@@ -1,0 +1,4 @@
+flask
+flask_ngrok
+json
+logging
